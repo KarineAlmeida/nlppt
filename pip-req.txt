@@ -1,0 +1,3 @@
+nltk
+marisa_trie
+

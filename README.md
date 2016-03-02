@@ -7,16 +7,19 @@ Fuctions and tools covered:
 * OK - Sentence Splitting
 * OK - Word Tokenization
 * OK - Lemmatization
-* Word Morfological analysis
-* Multi-Word Expression Tokenization
-* Stemming
+* OK - Word Morfological analysis
+* OK - Stemming
 * Word Spelling check
-* Grammar checker
 * Portuguese vocabulary
+
+* Grammar checker
+* Multi-Word Expression Tokenization
 * Portuguese language model
 * Portuguese WordVectors (Word2Vec model)
 * Part-of-Speech tagger (two models, one trained in MacMorpho, other in Google UTB)
+
 * Corpus
+    * MacMorpho revisited
     * Machado
     * Bosque
     * Universal Tree Bank
@@ -36,4 +39,3 @@ Fuctions and tools covered:
 * WordSense Disamgbiguation
 * Sentiment Analysis
 * Text Summarization
-
